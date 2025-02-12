@@ -63,7 +63,7 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: bachelor`s degree in Software Engineering
+  - degree: bachelors degree in Software Engineering
     university: University Pitágoras Unopar
     time: 2024 - now
     details: |
@@ -136,59 +136,37 @@ certifications:
     credentialurl: 
     credentialname:
     details: |
-      - Implementação de boas práticas em design responsivo e acessibilidade. 
-      - Otimização de performance de aplicações web para melhor experiência do usuário. 
-      - Desenvolvimento de layouts responsivos com Media Querries. 
-      - CSS flexbox e Grid. 
-      - Psicologia das cores e estrutura de Fontes.
-      - UI/UX design pratics.
+      - Implementation of best practices in responsive design and accessibility. 
+      - Performance optimization of web applications for better user experience. 
+      - Development of responsive layouts with Media Querries. 
+      - CSS flexbox and Grid. 
+      - Color psychology and font structure.
+      - UI/UX design practices.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Some examples of projects I have already developed.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Gabify
+    link: "https://gabiback13.github.io/Portfolio/Gabify/"
+    tagline: "A landing page inspire in the Spotify's page"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Apresentation website
+    link: "https://gabiback13.github.io/Portfolio/recursive-page/"
+    tagline: "A responsive website with good pratics of UI."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Android History page
+    link: "https://gabiback13.github.io/html-css/siteAndroid/SiteNovo/"
+    tagline: "A responsive website and one of my first's project"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: Simple Cordel Page
+    link: "https://gabiback13.github.io/html-css/siteCordel/"
+    tagline: "A simple Cordel page with parallax effect."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-    
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: Agenda -- preview unavailable
+    link: "https://agenda-uk7p.onrender.com"
+    tagline: "A full stack page designed with bootstrap with focus in back-end  -- Code available in my github"
 
 skills:
   title: Skills &amp; Proficiency
