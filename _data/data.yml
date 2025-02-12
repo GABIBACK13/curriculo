@@ -3,57 +3,46 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  position: left # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
+  name: Gabriel Luis Back
   tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
+  email: gabrielluisback.work@gmail.com
+  phone: +55 (51) 99742-6112
+  timezone: Brazil/Brasília(GMT-3) # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: brazilian
+  website: https://gabiback13.io/Portfolio/ # Include the full website URL, including "http://" or "https://".
+  linkedin: gabriel-luis-back
+  github: GABIBACK13
+  stack-overflow: 29388361/gabriel-back
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Portuguese
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
     - idiom: Spanish
-      level: Professional
+      level: Amauter
 
   interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
+    - item: Chess
+      link: https://www.chess.com/member/o_gab_13
 
 
-    - item: Snowboarding
+    - item: Reading
       link:
 
 
@@ -64,89 +53,72 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Born in the interior of the municipality of Sinimbu/RS, 
+    I started working in tobacco cultivation, together with my family. 
+    In 2023, I completed high school and started my degree in Software Engineering at Unopar University,
+    where I am currently studying the 3rd semester, in addition, 
+    I have courses in Web Development and Agile Methodology from the educational institution Udemy.
+    Today, I am expanding my back-end knowledge by developing APIs in conjunction with Node.js,
+    Express and databases (MongoDB and SQL).
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: bachelor`s degree in Software Engineering
+    university: University Pitágoras Unopar
+    time: 2024 - now
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+      During the course, I developed several skills around the development,
+      organization and structuring of software. Below are some of the skills I learned:
+        -  Proficiency in programming languages ​​such as JavaScript and Python. 
+        -  Ability to design and develop high-quality software systems. 
+        -  Knowledge of software architecture and requirements engineering. 
+        -  Experience in agile methodologies for managing software projects. 
+        -  Knowledge of UML development and diagramming processes.
+        -  Practical experience with web application development.
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Freelancer
+    time: 2025 - Present
+    company: Padaria BigPao
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      The company requested the development of a landing page to promote its cake
+      customization services, aiming to enhance visibility and attract new customers. 
+      My responsibility was to create a dynamic and responsive page that provided an intuitive and visually appealing user experience. 
+      To achieve this, I developed the page statically using JavaScript for interactivity and CSS Flexbox 
+      for a flexible and responsive layout. As a result, the project increased the company's promotional reach,
+      attracting new customers and expanding its market potential. Dev Skills:
+        - Responsive Design
+        - UI/UX design
+        - JavaScript
+        - CSS flexbox
+  - role: Monitor and IT assistant
+    time: 2024 - 2025
+    company: Prefeitura Municipal de Boqueirão do Leão
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+      I developed from scratch a spreadsheet for inventory management that automatically notified when items were below the expected quantity.
+      This solution increased efficiency in demand ordering and significantly reduced errors. 
+      Additionally, I was responsible for troubleshooting simple and recurring technical issues, 
+      ensuring that employees had continuous access to essential technological resources. 
+      I also reorganized computer labs and maintained peripherals to improve functionality and user experience. 
+      Beyond technical responsibilities, I supervised students during breaks, organizing them in recreational areas to ensure their safety. 
+      I also assisted in classrooms by delivering educational content and, during the last recess, 
+      was responsible for closing the institution and directing students to their respective transportation. 
+      Skills:
+        - Responsability
+        - Organization
+        - TI support
+        - Teamwork
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Full Stack developer
+    start: 2024
+    end: now
+    organization: Udemy
+    credentialid: 111-111
+    credentialurl: 
+    credentialname: 
     details: |
       Details about cert. Lorem ipsum dolor sit amet, consectetur
       adipiscing elit.
