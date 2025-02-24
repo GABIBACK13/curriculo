@@ -160,9 +160,9 @@ projects:
     link: "https://gabiback13.github.io/html-css/siteAndroid/SiteNovo/siteAndroid.html"
     tagline: "A responsive website and one of my first's project"
 
-  - title: Simple Cordel Page
-    link: "https://gabiback13.github.io/html-css/siteCordel/"
-    tagline: "A simple Cordel page with parallax effect."
+  - title: Full system for managing public work orders
+    link: "https://sistema-secretaria-deobras.onrender.com"
+    tagline: "A complete system in its initial version (1.0.1) capable of managing and automating public order processes."
 
   - title: Agenda -- preview unavailable
     link: "https://agenda-uk7p.onrender.com"
