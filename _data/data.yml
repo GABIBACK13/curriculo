@@ -1,194 +1,130 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-  position: left # position of the sidebar : left or right
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: left
+  about: False
+  education: True
 
   # Profile information
   name: Gabriel Luis Back
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Mid-level Software Engineer
+  avatar: profile.png
 
   # Sidebar links
   email: gabrielluisback.work@gmail.com
   phone: +55 (51) 99742-6112
-  timezone: Brazil/Brasília(GMT-3) # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Brazil/Brasília(GMT-3)
   citizenship: brazilian
-  website: https://gabiback13.io/Portfolio/ # Include the full website URL, including "http://" or "https://".
+  website: https://gabiback13.io/Portfolio/
   linkedin: gabriel-luis-back
   github: GABIBACK13
   stack-overflow: 29388361/gabriel-back
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: 
 
   languages:
     title: Languages
     info:
     - idiom: Portuguese
       level: Native
-
     - idiom: English
       level: Professional
-
-    - idiom: Spanish
-      level: Amauter
 
   interests:
     title: Interests
     info:
     - item: Chess
       link: https://www.chess.com/member/o_gab_13
-
-
     - item: Reading
-      link:
-
-
     - item: Cooking
-      link:
-
 
 career-profile:
   title: Career Profile
   summary: |
-    Born in the interior of the municipality of Sinimbu/RS, 
-    I started working in tobacco cultivation, together with my family. 
-    In 2023, I completed high school and started my degree in Software Engineering at Unopar University,
-    where I am currently studying the 3rd semester, in addition, 
-    I have courses in Web Development and Agile Methodology from the educational institution Udemy.
-    Today, I am expanding my back-end knowledge by developing APIs in conjunction with Node.js,
-    Express and databases (MongoDB and SQL).
+    Full Stack Developer with experience in back-end development as a freelancer for software service companies, assisting in integrations and consulting[cite: 5]. Currently, I serve as the head of the development sector at a medical products distributor, where I am responsible for technical decisions, architecture, and system implementation[cite: 6, 16]. I am an Engineering student focused on creating scalable solutions using Java, Node.js, and modern front-end technologies, always seeking to generate high-impact results through technical excellence[cite: 7, 9, 29].
+
 education:
   title: Education
   info:
-  - degree: bachelors degree in Software Engineering
-    university: University Pitágoras Unopar
-    time: 2024 - now
+  - degree: Bachelor's degree in Software Engineering
+    university: Faculdade Pitágoras Unopar
+    time: 2024 - 2027
     details: |
-      During the course, I developed several skills around the development,
-      organization and structuring of software. Below are some of the skills I learned:
-        -  Proficiency in programming languages ​​such as JavaScript and Python. 
-        -  Ability to design and develop high-quality software systems. 
-        -  Knowledge of software architecture and requirements engineering. 
-        -  Experience in agile methodologies for managing software projects. 
-        -  Knowledge of UML development and diagramming processes.
-        -  Practical experience with web application development.
+      Focusing on software architecture, system design, and engineering principles[cite: 9, 10].
+  - degree: Full Stack Development
+    university: Udemy
+    time: 2024 - 2025
+    details: |
+      Comprehensive training in modern web technologies and agile methodologies[cite: 11, 12].
+
 experiences:
   title: Experiences
   info:
-  - role: Freelancer
-    time: 2025 - Present
-    company: Padaria BigPao
+  - role: Mid-level Software Engineer
+    time: 2026 - present
+    company: MCW Produtos Médicos e Hospitalares
     details: |
-      The company requested the development of a landing page to promote its cake
-      customization services, aiming to enhance visibility and attract new customers. 
-      My responsibility was to create a dynamic and responsive page that provided an intuitive and visually appealing user experience. 
-      To achieve this, I developed the page statically using JavaScript for interactivity and CSS Flexbox 
-      for a flexible and responsive layout. As a result, the project increased the company's promotional reach,
-      attracting new customers and expanding its market potential. Dev Skills:
-        - Responsive Design
-        - UI/UX design
-        - JavaScript
-        - CSS flexbox
-  - role: Monitor and IT assistant
+     ... I'm working
+  - role: Junior Full Stack Developer - Full Time
+    time: 2025 - 2026
+    company: MCW Produtos Médicos e Hospitalares
+    details: |
+      Responsible for technical decisions in the development sector, focusing on the architecture, implementation, and maintenance of internal systems[cite: 14, 15, 16].
+      - Developed a SAC protocol management system integrating logistics, finance, tax, and sales departments[cite: 17].
+      - Created the corporate ERP API using Java and Spring Boot, ensuring secure communication with critical data[cite: 18].
+      - Structured the Business Intelligence ecosystem, automating real-time operational indicators and reports[cite: 19].
+      - Implemented internal infrastructure using Docker containers, Nginx secure proxy (SSL), and network isolation[cite: 21, 22].
+      - Automated manual routines using Power Query and Power Automate[cite: 20].
+  - role: Freelance Web Developer
     time: 2024 - 2025
-    company: Prefeitura Municipal de Boqueirão do Leão
+    company: Autonomous
     details: |
-      I developed from scratch a spreadsheet for inventory management that automatically notified when items were below the expected quantity.
-      This solution increased efficiency in demand ordering and significantly reduced errors. 
-      Additionally, I was responsible for troubleshooting simple and recurring technical issues, 
-      ensuring that employees had continuous access to essential technological resources. 
-      I also reorganized computer labs and maintained peripherals to improve functionality and user experience. 
-      Beyond technical responsibilities, I supervised students during breaks, organizing them in recreational areas to ensure their safety. 
-      I also assisted in classrooms by delivering educational content and, during the last recess, 
-      was responsible for closing the institution and directing students to their respective transportation. 
-      Skills:
-        - Responsability
-        - Organization
-        - TI support
-        - Teamwork
+      - Developed responsive web systems and landing pages with a focus on UI/UX best practices[cite: 24].
+      - Implemented REST APIs using Node.js, Express, and SQL/NoSQL databases with secure authentication[cite: 25].
+      - Integrated external APIs, such as Mercado Pago[cite: 26].
+      - Created visual identities and marketing materials for small and medium-sized clients[cite: 27].
+
 certifications:
   title: Certifications
   list:
-  - name: Full Stack developer
+  - name: Full Stack Developer
     start: 2024
-    end:
+    end: 2025
     organization: Udemy
-    credentialid: none
-    credentialurl: 
-    credentialname: 
     details: |
       Skills:
-      - Front-end development using HTML, CSS and JavaScript. 
-      - Creation and management of databases with MongoDB and mySQL. 
-      - API integration and back-end development with Node.ls. 
-      - Code versioning using Git and GitHub. 
-      - Development of reactive applications with React.js. 
-      - Application of security principles in web development. 
-      - Pages with scalability for different browsers.
-  - name: Front End developer
-    start: 2023
-    end: 2024
-    organization: CemV
-    credentialid:
-    credentialurl: 
-    credentialname:
-    details: |
-      - Implementation of best practices in responsive design and accessibility. 
-      - Performance optimization of web applications for better user experience. 
-      - Development of responsive layouts with Media Querries. 
-      - CSS flexbox and Grid. 
-      - Color psychology and font structure.
-      - UI/UX design practices.
+      - Front-end (HTML, CSS, React, JavaScript, Typescript).
+      - Back-end (Node.js, Express, Java, Spring Boot, Typescript).
+      - Databases (PostgreSQL, MySQL, MongoDB).
+      - DevOps (Docker, Nginx, CI/CD).
 
 projects:
-  title: Projects
+  title: Projects -- outdated
   intro: >
     Some examples of projects I have already developed.
   assignments:
+  - title: SAC Management System
+    tagline: Internal system integrating multiple company sectors for protocol management.
+  - title: Corporate ERP API
+    tagline: Java + Spring Boot API for secure and critical data communication.
   - title: Gabify
     link: "https://gabiback13.github.io/Portfolio/Gabify/"
-    tagline: "A landing page inspire in the Spotify's page"
-
-  - title: Apresentation website
-    link: "https://gabiback13.github.io/Portfolio/recursive-page/"
-    tagline: "A responsive website with good pratics of UI."
-
-  - title: Android History page
-    link: "https://gabiback13.github.io/html-css/siteAndroid/SiteNovo/siteAndroid.html"
-    tagline: "A responsive website and one of my first's project"
-
-  - title: Full system for managing public work orders -- preview unavailable
-    link: "https://sistema-secretaria-deobras.onrender.com"
-    tagline: "A complete system in its initial version (1.0.2) capable of managing and automating public order processes -- Code available in my github"
-
-  - title: Agenda -- preview unavailable
-    link: "https://agenda-uk7p.onrender.com"
-    tagline: "A full stack page designed with bootstrap with focus in back-end  -- Code available in my github"
+    tagline: "A landing page inspired by the Spotify page."
 
 skills:
-  title: Skills &amp; Proficiency
-
+  title: Skills & Proficiency
   toolset:
-  - name: JavaScript
-    level: 98%
-
-  - name: Node.js & express
-    level: 88%
-
-  - name: MongoDB
-    level: 90%
-
-  - name: HTML5 & CSS3
-    level: 99%
-
-  - name: Python
+  - name: JavaScript / TypeScript
+    level: 100%
+  - name: Node.js
+    level: 100%
+  - name: Java (Spring Boot)
+    level: 67%
+  - name: SQL (PostgreSQL/MySQL/Oracle) & NoSQL
+    level: 100%
+  - name: Docker & Infrastructure (Nginx/SSL)
     level: 85%
-
-  - name: SQL
-    level: 70%
+  - name: React & UI/UX
+    level: 92%
+  - name: Business Intelligence (Power BI/Power Automate)
+    level: 100%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
